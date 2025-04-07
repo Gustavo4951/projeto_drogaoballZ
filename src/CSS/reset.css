@@ -1,0 +1,9 @@
+* {
+    margin: 0;  /* espaçamento entre o titulo e o subtitulo*/
+    padding: 0; /* espaçamento entre as imagens*/
+    box-sizing: border-box; /* espaçamento e larguras no site*/
+}
+
+ul {
+    list-style: none; /* estilo das letras no site  */
+}
